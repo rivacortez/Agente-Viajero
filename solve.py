@@ -3,7 +3,7 @@ from tkinter import messagebox
 import random
 import networkx as nx
 import matplotlib.pyplot as plt
-
+asdasdsads
 
 def generar_matriz(n):
     matriz = [[0] * n for _ in range(n)]
